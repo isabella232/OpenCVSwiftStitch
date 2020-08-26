@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2FOpenCVSwiftStitch.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2FOpenCVSwiftStitch?ref=badge_shield)
+
 __OpenCV computer vision with iOS: stitching panoramas__  
 
 <img src = "https://github.com/foundry/OpenCVSwiftStitch/blob/meta/meta/example.big.jpg">
@@ -102,3 +104,7 @@ __Comparisons__
 
 </td>
 </tr></table>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2FOpenCVSwiftStitch.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2FOpenCVSwiftStitch?ref=badge_large)
